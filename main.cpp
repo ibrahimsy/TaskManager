@@ -9,5 +9,7 @@ int main()
 
     ShowTasks();
     EditTask();
+    AddTask();
+
     return 0;
 }
