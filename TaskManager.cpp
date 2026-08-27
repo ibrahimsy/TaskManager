@@ -11,3 +11,7 @@ void AddTask()
 {
     cout << "Add Task Feature" << endl;
 }
+void EditTask()
+{
+    cout << "Edit Task Feature" << endl;
+}
